@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `My Personal Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Fidel Castro`,
+      summary: `Proud Dreamer (Undocumented Student) and proud student from Delaware State University`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Just a personal Blog to document random stuff in my professional and personal life.`,
+    siteUrl: `https://fidel95.github.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `fidelcastro95`,
     },
   },
   plugins: [
